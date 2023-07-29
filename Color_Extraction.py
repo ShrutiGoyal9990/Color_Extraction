@@ -15,7 +15,7 @@ with st.sidebar:
     st.markdown('<span style="color: green;font-size: 24px;">**HELLO**</span>', unsafe_allow_html=True)
     st.markdown('<span style="color: violet;font-size: 24px;">**Welcome to IMAGineColor**</span>', unsafe_allow_html=True)
     st.markdown('''<span style="color: blue;font-size: 24px;">**Let's play with the images!**</span>''', unsafe_allow_html=True)
-    image = im.open("play.jpg")
+    image = im.open(r"play.jpg")
     st.sidebar.image(image, use_column_width=True)
 
 st.subheader('Input Image')
