@@ -1,14 +1,10 @@
-pip install sklearn
-pip install webcolors
-pip install matplotlib
-pip install numpy
-pip install PIL
-
 import streamlit as st
+import sklearn.cluster
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import webcolors
 import numpy as np
+import PIL
 from PIL import Image as im
 import matplotlib.patches as patches
 
