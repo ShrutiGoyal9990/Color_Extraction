@@ -1,5 +1,5 @@
 numpy==1.24.2
 matplotlib==3.7.2
 webcolors==1.13
-Image==4.7.1
+Image==1.5.33
 sklearn==0.0.post7
