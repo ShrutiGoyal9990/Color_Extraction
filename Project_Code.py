@@ -1,5 +1,5 @@
 import streamlit as st
-import sklearn.cluster
+import sklearn
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import webcolors
