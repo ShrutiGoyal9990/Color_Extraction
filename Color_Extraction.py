@@ -1,9 +1,3 @@
-python -m venv myenv
-
-# Activate the virtual environment
-# On Windows:
-myenv\Scripts\activate
-
 import streamlit as st
 import sklearn
 from sklearn.cluster import KMeans
