@@ -11,6 +11,10 @@ K-means algorithm is used that calculates the color features such as the saturat
 Streamlit is used for model deployment so as to provide an interactive user interface.
 
 
+The link using which the app can be tested:-
+https://imagine-colors.streamlit.app/
+
+
 ![Project_image1](https://github.com/ShrutiGoyal9990/Color_Extraction/assets/121054868/e5274aac-13a5-4e71-8475-247e3296a93d)
 ![Project_image2](https://github.com/ShrutiGoyal9990/Color_Extraction/assets/121054868/6932a269-3833-40b0-a359-7d1bb726b264)
 ![Project_image3](https://github.com/ShrutiGoyal9990/Color_Extraction/assets/121054868/0acb5d8f-225b-4341-85a5-b67fac00c70a)
